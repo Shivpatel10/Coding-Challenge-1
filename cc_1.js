@@ -12,7 +12,7 @@ console.log(isActive, typeof(isActive));
 
 let products = ["Pens", "Pencils", "Paper"];
 const productDetails = {
-    name: Shiv,
+    name: "Pen",
     price: 123,
     inStock: true
 }
