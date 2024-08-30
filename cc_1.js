@@ -53,7 +53,6 @@ let hasPermission = true;
     console.log(hasKeyCard && hasPermission); 
     console.log(hasKeyCard || hasPermission);
     console.log(!hasKeyCard);
-&
 
 
 
