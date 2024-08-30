@@ -20,21 +20,32 @@ console.log(products, productDetails);
 
 // Task 3: Assignment Operators
 
-let accountBalance = 1000 
-    accountBalance += 1000
-        console.log(accountBalance)
+let accountBalance = 1000;
+    accountBalance += 1000;
+        console.log(accountBalance);
+    accountBalance -= 50;
+        console.log(accountBalance);
+    accountBalance *= 3;
+        console.log(accountBalance);
 
-    accountBalance -= 50
-        console.log(accountBalance)
+    accountBalance /= 2;
+        console.log(accountBalance);
+     accountBalance %= 5;
+        console.log(accountBalance);
 
-    accountBalance *= 3
-        console.log(accountBalance)
+// Task 4: Comparison Operators
 
-    accountBalance /= 2
-        console.log(accountBalance)
+let employeeScore1 = 10;
+let employeeScore2 = 20;
 
-     accountBalance %= 5
-        console.log(accountBalance)
+    console.log(employeeScore1 > employeeScore2);
+    console.log(employeeScore1 < employeeScore2);
+    console.log(employeeScore1 >= employeeScore2);
+    console.log(employeeScore1 <= employeeScore2);
+    console.log(employeeScore1 === employeeScore2);
+    console.log(employeeScore1 !== employeeScore2);
+
+
 
 
 
