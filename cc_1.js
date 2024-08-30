@@ -45,8 +45,15 @@ let employeeScore2 = 20;
     console.log(employeeScore1 === employeeScore2);
     console.log(employeeScore1 !== employeeScore2);
 
+// Task 5: Logical Operators
 
+let hasKeyCard = true;
+let hasPermission = true;
 
+    console.log(hasKeyCard && hasPermission); 
+    console.log(hasKeyCard || hasPermission);
+    console.log(!hasKeyCard);
+&
 
 
 
