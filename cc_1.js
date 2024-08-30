@@ -38,12 +38,12 @@ let accountBalance = 1000;
 let employeeScore1 = 10;
 let employeeScore2 = 20;
 
-    console.log(employeeScore1 > employeeScore2);
-    console.log(employeeScore1 < employeeScore2);
-    console.log(employeeScore1 >= employeeScore2);
-    console.log(employeeScore1 <= employeeScore2);
-    console.log(employeeScore1 === employeeScore2);
-    console.log(employeeScore1 !== employeeScore2);
+    console.log(employeeScore1 > employeeScore2); //Greater Than
+    console.log(employeeScore1 < employeeScore2); // Less Than
+    console.log(employeeScore1 >= employeeScore2); // Greater Than or Equal Too
+    console.log(employeeScore1 <= employeeScore2); // Less Than or Equal Too
+    console.log(employeeScore1 === employeeScore2); // Strict Equal
+    console.log(employeeScore1 !== employeeScore2); // Not Strict Equal
 
 // Task 5: Logical Operators
 
